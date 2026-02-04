@@ -20,3 +20,22 @@ This chatbot answers common student queries using predefined FAQs and keyword ma
 2. Navigate to project folder
 3. Run:
    python main.py
+
+## Structure of Project 
+StudentSupportChatbot/
+│
+├── chatbot/
+│   ├── __init__.py
+│   ├── chatbot.py
+│   ├── matcher.py
+│   └── preprocess.py
+│
+├── data/
+│   └── faqs.json
+│
+├── main.py
+├── README.md
+├── requirements.txt
+└── Software_Requirements_Specification.pdf
+
+
