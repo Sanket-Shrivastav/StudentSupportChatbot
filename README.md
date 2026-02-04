@@ -20,6 +20,7 @@ This chatbot answers common student queries using predefined FAQs and keyword ma
 2. Navigate to project folder
 3. Run:
    python main.py
+4. Watch this linkedIn Post : https://www.linkedin.com/posts/sanket-shrivastav_aichatbot-studentsupport-edtech-activity-7424755316933730304-w-Ha?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeVyDcBqaNZ1zrOEn1sjISx1CHR7V-WeGA
 
 ## Structure of Project 
 StudentSupportChatbot/
@@ -37,5 +38,6 @@ StudentSupportChatbot/
 ├── README.md
 ├── requirements.txt
 └── Software_Requirements_Specification.pdf
+
 
 
