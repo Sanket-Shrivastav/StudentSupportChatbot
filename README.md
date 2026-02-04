@@ -1,2 +1,22 @@
-# StudentSupportChatbot
-AI Chatbot for Student Support Services is a Python-based command-line chatbot that answers student academic and administrative queries using NLP, text preprocessing, and keyword matching. It uses JSON-based FAQs, provides 24/7 support, reduces staff workload, and runs offline on Windows, Linux, and macOS.
+# AI Chatbot for Student Support Services
+
+## Description
+This chatbot answers common student queries using predefined FAQs and keyword matching.
+
+## Features
+- Admission queries
+- Attendance rules
+- Exam information
+- Fee payment guidance
+- Contact details
+
+## Technologies Used
+- Python
+- JSON
+- Basic NLP techniques
+
+## How to Run
+1. Install Python 3
+2. Navigate to project folder
+3. Run:
+   python main.py

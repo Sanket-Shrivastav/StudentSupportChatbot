@@ -1,0 +1,22 @@
+{
+  "admission": {
+    "keywords": ["admission", "apply", "application"],
+    "answer": "You can apply for admission through the university portal. Applications open in June every year."
+  },
+  "attendance": {
+    "keywords": ["attendance", "presence", "absent"],
+    "answer": "Students must maintain at least 75% attendance to be eligible for exams."
+  },
+  "exams": {
+    "keywords": ["exam", "examination", "test"],
+    "answer": "Examinations are conducted at the end of each semester as per the academic calendar."
+  },
+  "fees": {
+    "keywords": ["fees", "payment", "fee"],
+    "answer": "Fees can be paid online using net banking, debit card, or credit card."
+  },
+  "contact": {
+    "keywords": ["contact", "email", "phone"],
+    "answer": "You can contact student support at support@university.edu or call 123-456-7890."
+  }
+}
